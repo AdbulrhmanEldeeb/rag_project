@@ -39,7 +39,9 @@ This repository contains a Streamlit application that leverages LangChain for a 
 2. **Open the application in your browser, usually at http://localhost:8501.**
 
 Use the app:
-Input URLs: Enter up to three URLs in the sidebar.
-Submit Question: Type your question in the main input field and click "Submit" to retrieve an answer based on the content from the URLs.
+Input URLs:
+Enter up to three URLs in the sidebar.
+Submit Question: 
+Type your question in the main input field and click "Submit" to retrieve an answer based on the content from the URLs.
 
 
